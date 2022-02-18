@@ -32,5 +32,10 @@
     "console-clear": "^1.0.0",
     "kleur": "^3.0.0",
     "webpack-format-messages": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "typescript": "^4.5.5",
+    "webpack": "^5.69.1"
   }
 }
